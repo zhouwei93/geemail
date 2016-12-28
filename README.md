@@ -1,3 +1,4 @@
+
 # geemail
 welcome to the geemail project!
 
@@ -25,4 +26,5 @@ g++ -std=c++11 myregister.cpp -lsqlite3 -lgcrypt
 g++ -std=c++11 mylogin.cpp -lsqlite3 -lgcrypt
 
  ./a.out
+ aaabbb
  
