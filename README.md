@@ -19,7 +19,8 @@ Once logged in, it can tell you the number of messages you have,
 and list the users that have sent them a message. 
 
 how to compile the code:
- g++ -std=c++11 myregister.cpp -lsqlite3 -lgcrypt
- g++ -std=c++11 mylogin.cpp -lsqlite3 -lgcrypt
+
+g++ -std=c++11 myregister.cpp -lsqlite3 -lgcrypt
+g++ -std=c++11 mylogin.cpp -lsqlite3 -lgcrypt
  ./a.out
  
