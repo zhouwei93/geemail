@@ -16,8 +16,11 @@ Detail：
 
 Geemail is a mail system which consider the matter of security, function including login in, register, read message,and write 
 message.
+
 The code is written in C++
+
 Using SQLite3 to store the information：username,password,cipher message
+
 Password and message are encrypted and in hashing style, username in their normal format
 the encryption algorithm is SHA256.
 
