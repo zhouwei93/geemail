@@ -4,11 +4,11 @@ this is a secure asynchronous message platform.
 
 # Function:
 ---------------------------------------------------------------------------------------------------------------------------
-1. firstly, When run the code,prompt the user to sign-in or register.
+1. When run the code,prompt the user to sign-in or register.
 
  myregister.cpp have the function that it can register username and password.
 
-2. secondly, When a user registers, get their username and password. mylogin.cpp can log in the user you just register 
+2.  When a user registers, get their username and password. mylogin.cpp can log in the user you just register 
 
 3. When a user logs in,program would ask for username and validate password. If login fails, it would response the unsuccess
 
