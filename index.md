@@ -13,7 +13,7 @@ this is a secure asynchronous message platform.
 4. Once logged in, it can tell you the number of messages you have, and list the users that have sent them a message.
 
 
-# Detail：
+# Details：
 
 1. Geemail is a mail system which consider the matter of security, function including login in, register, read message,and write message.
 
