@@ -4,9 +4,7 @@ this is a secure asynchronous message platform.
 
 # Function:
 ---------------------------------------------------------------------------------------------------------------------------
-1. When run the code,prompt the user to sign-in or register.
-
- myregister.cpp have the function that it can register username and password.
+1. When run the code,prompt the user to sign-in or register. myregister.cpp have the function that it can register username and password.
 
 2.  When a user registers, get their username and password. mylogin.cpp can log in the user you just register 
 
@@ -17,9 +15,7 @@ this is a secure asynchronous message platform.
 
 # Detail：
 
-1. Geemail is a mail system which consider the matter of security, function including login in, register, read message,and write 
-
- message.
+1. Geemail is a mail system which consider the matter of security, function including login in, register, read message,and write message.
 
 2. The code is written in C++
 
