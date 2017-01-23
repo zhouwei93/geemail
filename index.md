@@ -29,7 +29,6 @@ To keep sercet, the message between two users would not store in the database,
 
 
 
-
 how to compile the code:
 
 g++ -std=c++11 myregister.cpp -lsqlite3 -lgcrypt
